@@ -173,6 +173,15 @@
   left: 50%;
 }
 
+
+img {
+  height: 250px;
+}
+
+#cn {
+  height: 180px;
+}
+
 .ps-timeline-sec .container ol.ps-timeline li span.ps-sp-top:before {
   content: '';
   color: #348E80;
